@@ -150,3 +150,4 @@ public class POSPanel extends JPanel {
         JOptionPane.showMessageDialog(this, ex.getMessage(), "Error", JOptionPane.ERROR_MESSAGE);
     }
 }
+// Point of Sale panel
