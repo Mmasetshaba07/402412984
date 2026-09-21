@@ -31,3 +31,4 @@ public class AdminDashboard extends JFrame {
         add(tabs, BorderLayout.CENTER);
     }
 }
+// Admin dashboard
