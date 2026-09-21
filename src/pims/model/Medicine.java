@@ -29,3 +29,4 @@ public class Medicine {
     public int getSupplierId()      { return supplierId; }
     @Override public String toString() { return name; }
 }
+// Medicine model class
