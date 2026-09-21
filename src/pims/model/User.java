@@ -15,3 +15,4 @@ public class User {
     public String getFullName() { return fullName; }
     public boolean isAdmin()    { return "Admin".equalsIgnoreCase(role); }
 }
+// User model class
