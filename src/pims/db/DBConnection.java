@@ -29,3 +29,4 @@ public class DBConnection {
         } catch (SQLException ignored) { }
     }
 }
+// JDBC connection helper
