@@ -81,3 +81,4 @@ public class MedicineDAO {
                 rs.getInt("supplier_id"));
     }
 }
+// Medicine DAO
